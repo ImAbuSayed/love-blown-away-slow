@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-blown-away-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Love Blown Away Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-blown-away-slow/) |
+| **Get License** | [Official Music Licensing for Love Blown Away Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-blown-away-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat of the midnight slowly rising
+> Your silhouette in the doorway is mesmerizing
+> Come close and let the shadows pull us deep
+> There is a promise in the dark we have to keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

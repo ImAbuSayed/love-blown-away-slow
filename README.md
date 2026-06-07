@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-blown-away-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Love Blown Away Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-blown-away-slow/) |
+| **Get License** | [Get License For Love Blown Away Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-blown-away-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4e22198839451b91e90d24e2acc4d557b86cec486c17b43ced0321ba254b4d27` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

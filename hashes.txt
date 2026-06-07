@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Love Blown Away Slow
+
+This log tracks the cryptographic history and versioning for the song **Love Blown Away Slow** (love-blown-away-slow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:04:28.567661 | `v1` | `4e22198839451b91e90d24e2acc4d557b86cec486c17b43ced0321ba254b4d27` | `762e8557dccb02af7455e554b7ab38d3e88a566278e68460dc2ccdb15b2f45bf` | `2026-06-07_love-blown-away-slow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
